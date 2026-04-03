@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "沈黙の少年",
+  "base_artist": "大橋ちっぽけ",
+  "createdAt": "2026-04-03T06:11:05.143466Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "沈黙の少年",
+      "artist": "大橋ちっぽけ",
+      "has_synced": false,
+      "path": "select/pl_01_沈黙の少年_大橋ちっぽけ.txt"
+    }
+  ]
+}
